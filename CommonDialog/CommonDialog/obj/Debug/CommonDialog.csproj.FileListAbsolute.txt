@@ -1,0 +1,10 @@
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\bin\Debug\CommonDialog.exe.config
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\bin\Debug\CommonDialog.exe
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\bin\Debug\CommonDialog.pdb
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\obj\Debug\CommonDialog.csprojAssemblyReference.cache
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\obj\Debug\CommonDialog.Form1.resources
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\obj\Debug\CommonDialog.Properties.Resources.resources
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\obj\Debug\CommonDialog.csproj.GenerateResource.cache
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\obj\Debug\CommonDialog.csproj.CoreCompileInputs.cache
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\obj\Debug\CommonDialog.exe
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\CommonDialog\CommonDialog\obj\Debug\CommonDialog.pdb
